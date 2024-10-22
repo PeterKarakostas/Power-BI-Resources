@@ -1,5 +1,5 @@
 /*
-This function converts OSGB36 (Ordnance Survey Great Britain) easting and northing coordinates to WGS84 latitude and longitude.
+This function converts OSGB36 (Ordnance Survey National Grid) easting and northing coordinates to WGS84 latitude and longitude.
 */
 
 let
