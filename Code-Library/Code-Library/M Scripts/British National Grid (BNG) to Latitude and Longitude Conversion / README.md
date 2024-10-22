@@ -1,6 +1,6 @@
 # OSGB36 to WGS84 Coordinate Transformation
 
-This M script converts coordinates from the OSGB36 (Ordnance Survey Great Britain 1936) system to the WGS84 (World Geodetic System 1984) system. It is designed for use in Power BI's Power Query Editor, making it easy to transform geospatial data from one coordinate system to another.
+This M script converts coordinates from the OSGB36 (Ordnance Survey National Grid) system to the WGS84 (World Geodetic System 1984) system. It is designed for use in Power BI's Power Query Editor, making it easy to transform geospatial data from one coordinate system to another.
 
 ## How to Use
 
