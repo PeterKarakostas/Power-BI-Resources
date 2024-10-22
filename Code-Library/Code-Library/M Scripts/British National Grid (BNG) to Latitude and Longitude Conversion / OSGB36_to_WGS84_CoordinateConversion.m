@@ -1,3 +1,7 @@
+/*
+This function converts OSGB36 (Ordnance Survey Great Britain) easting and northing coordinates to WGS84 latitude and longitude.
+*/
+
 let
     OSGB36toWGS84 = (optional E as number, optional N as number) as record =>
     if E = null or N = null then
